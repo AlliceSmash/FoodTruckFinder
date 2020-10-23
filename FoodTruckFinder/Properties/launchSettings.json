@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FoodTruckFinder": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
