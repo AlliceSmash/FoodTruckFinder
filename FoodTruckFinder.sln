@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodTruckFinder", "FoodTruckFinder\FoodTruckFinder.csproj", "{5494486A-7EBB-465C-9943-4E9D924BD304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{A7D6B92E-14E5-4E66-98DD-1D08EAE8FE37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodTruckDataService", "FoodTruckDataService\FoodTruckDataService.csproj", "{DD15F406-08DA-4507-A18F-4370A846F031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5494486A-7EBB-465C-9943-4E9D924BD304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5494486A-7EBB-465C-9943-4E9D924BD304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5494486A-7EBB-465C-9943-4E9D924BD304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5494486A-7EBB-465C-9943-4E9D924BD304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D6B92E-14E5-4E66-98DD-1D08EAE8FE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D6B92E-14E5-4E66-98DD-1D08EAE8FE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D6B92E-14E5-4E66-98DD-1D08EAE8FE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D6B92E-14E5-4E66-98DD-1D08EAE8FE37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD15F406-08DA-4507-A18F-4370A846F031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD15F406-08DA-4507-A18F-4370A846F031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD15F406-08DA-4507-A18F-4370A846F031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD15F406-08DA-4507-A18F-4370A846F031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
