@@ -6,7 +6,6 @@ namespace Common.Interfaces
 {
     public interface IDataService
     {
-        GetFoodTruckResponse GetFoodTruckList(DateTime dateTime);
         Task<GetFoodTruckResponse> GetFoodTruckListAsync(DateTime dateTime);
     }
 }
